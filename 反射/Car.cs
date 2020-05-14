@@ -12,5 +12,6 @@ namespace 反射
        public string price;
        public string types;
         public int MyProperty { get; set; }
+        public int ss { get; set; }
     }
 }
